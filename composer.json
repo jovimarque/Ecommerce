@@ -3,7 +3,7 @@
     "authors": [
         {
             "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "email": "1joao1marques@gmail.com"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
